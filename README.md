@@ -31,7 +31,11 @@ else:
       else:
            print ("opcion invalida")
 if__name__=="main": main ()
+
+
 #/MULTIPLICACION Y DIVISION/ 
+
+
 def multiplicar(a, b): resultado = a * b print "El resultado de la multiplicación es:", resultado return resultado
 
 def dividir(a, b): if b == 0: print "Error: no se puede dividir por cero." return None else: resultado = a / b print "El resultado de la división es:", resultado return resultado
