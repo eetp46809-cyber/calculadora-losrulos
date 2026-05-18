@@ -1,7 +1,11 @@
 # calculadora-losrulos 
 Los participantes son Berenice Ortiz , Juan Sosa y ignacio temperini.
 Este trabajo consiste en crear una calculadora con las siguientes funciones : multiplicacion  , division , resta y suma .
+
+
 #/SUMA Y RESTA/ 
+
+
 def suma (a, b): return = a + b
 
 def resta (a, b): return = a - b
